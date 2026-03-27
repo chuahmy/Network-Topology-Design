@@ -114,9 +114,9 @@ Full_Topology_Design.png
 
 ## 📂 Project Files
 
-* `network-design.pkt` → Cisco Packet Tracer file
-* `topology.png` → Network diagram screenshot
-* `README.md` → Project documentation
+* `Full_Topology_Design_noPassword.pkt` → Cisco Packet Tracer file
+* `Full_Topology_Design.png` → Network diagram screenshot
+* `network-design-report.pdf` → Project documentation
 
 ---
 
